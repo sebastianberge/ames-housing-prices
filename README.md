@@ -1,3 +1,3 @@
-# Seattle Housing Prices
+# Ames Housing Prices
 
-School project in Machine Learning - Predicting housing prices in Seattle.
+School project in Machine Learning - Predicting housing prices in Ames.
